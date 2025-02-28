@@ -1,0 +1,10 @@
+﻿global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Logging;
+global using System.ComponentModel;
+global using System.Net.Mail;
+global using System.Reflection;
+global using System.Text;
+global using System.Text.RegularExpressions;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
